@@ -18,7 +18,9 @@ The complete analysis can be accessed [here](https://github.com/shayanafzal/surf
 
 # Summary
 ## High-level Summary of the Results
-Oahu would be an excellent location for the ice cream shop as the average temperature for June and December only differs by 4 degrees. The difference in summer and winter temperatures will not impact sales. 
+Oahu would be an excellent location for the ice cream shop as the average temperature for June and December only differs by 4 degrees. The difference in summer and winter temperatures will not impact sales. There are less temperature fluctuations in June compared to December. This idicates that the June sales may be higher than December sales, however, overall temperature analysis above indicates that December temperatures on average are not much differernt compared to June, indicating year-round ice cream sales.
+
+
 ## Two Additional Queries
 1. The precipitation trends in Oahu can be analyzed to get a sense of the month-to-month fluctuations that may impact instore traffic.
 2. The stations that contributed to the weather observations can also be taken into consideration when planning on where to setup the ice cream shops. Locations closest to the stations would be best.
